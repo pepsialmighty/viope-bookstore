@@ -1,0 +1,22 @@
+.App {
+  width: 100%;
+}
+
+.app__content {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.todo__input {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  margin: auto;
+}
